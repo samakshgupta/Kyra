@@ -2,6 +2,8 @@
 
 ```bash
 $ npm install
+
+$ npm run build
 ```
 
 ## Setting up Environment
